@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+.tox/
+.venv/
+venv/
+env/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Local environment files
+.env
+.direnv/

@@ -1,0 +1,11 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Explicitly mark notebook files as text
+*.ipynb text
+
+# Mark Excel sheets and PNG plots as binary to prevent normalization
+*.xlsx binary
+*.xls binary
+*.png binary
+*.jpg binary
