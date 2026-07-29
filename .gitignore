@@ -17,3 +17,6 @@ env/
 # Local environment files
 .env
 .direnv/
+
+# Ignore PDF manuals
+*.pdf
